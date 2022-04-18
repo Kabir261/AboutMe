@@ -56,6 +56,14 @@ nav{
         .mobile-menu__link{
             
             margin-top: 10%;
+            
+             ul{
+                flex-direction: column;
+
+                li{
+                    margin: 1rem 0;
+                }
+            }
         }
     }
 }
